@@ -1,0 +1,38 @@
+.mynav{
+
+	margin: 0;
+	padding: 0px;
+	list-style: none;
+}
+
+.menutitle{
+	background: #fff none repeat scroll 0 0;
+	border: 2px solid #999;
+	color: #000;
+	display: block;
+	text-align: center;
+}
+
+.mynav li{
+ display: block;
+
+}
+
+.mynav li a{
+ display: block;
+ background: #999;
+ padding: 5px;
+ margin-bottom: 5px;
+ color: #fff;
+}
+
+.mynav li a:hover{
+
+	background: #444;
+}
+
+.maindiv{
+
+	padding: 20px;
+}
+
